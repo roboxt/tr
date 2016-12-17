@@ -6,7 +6,7 @@ import simplejson as json
 TOKEN = 'YOUR_BOT_TOKEN'
 API_PATH = 'http://api.vajehyab.com/v2/public'
 
-bot = telebot.TeleBot(TOKEN)
+bot = telebot.TeleBot(296635781:AAEa8whptaGKpqWESWCAc3bjlyRF_SGcmvo)
 
 
 @bot.message_handler(commands=['start'])
